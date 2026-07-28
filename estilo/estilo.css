@@ -114,7 +114,7 @@ header p{
     border-radius: 30px;
     font-size: 0.85rem;
     font-weight: bold;
-    transition: background 0.3 ease;
+    transition: background 0.3s ease;
 }
 
 
