@@ -116,5 +116,14 @@ header p{
     font-weight: bold;
     transition: background 0.3s ease;
 }
+.btn:hover{
+    background: #ff2e2e;
+}
+/*RESPONDIVO*/
 
-
+@media(max-widht:600px){
+.card{
+    width: 90%;
+    height: 320px;
+}
+}
